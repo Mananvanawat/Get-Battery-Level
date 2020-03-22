@@ -1,6 +1,8 @@
-# decidekarlo
+# Get Battery Level
 
 A new Flutter application.
+This is a flutter demo application that shows how to write custom platform-specific code in flutter.
+
 
 ## Getting Started
 
